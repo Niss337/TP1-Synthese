@@ -1,4 +1,5 @@
 # TP1-Synthese
+La compilation a été effectuée sur la branche `master` 
 
 Ce projet contient les fichiers principaux d'un shell simple en C, permettant d'exécuter des commandes d'un système d'exploitation. Les fichiers clés sont les suivants :
 
