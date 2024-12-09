@@ -10,7 +10,6 @@
 #define FORK_FAILED "Fork failed.\n"
 #define EXIT_PROMPT "Bye bye...\n"
 #define PROMPT "enseash"
-// Exit and signal messages
 #define EXIT_PREFIX "[exit:"
 #define SIGNAL_PREFIX "[sign:"
 #define TIME_SUFFIX "|%dms]%% "
