@@ -23,7 +23,7 @@ Ce projet contient les fichiers principaux d'un shell simple en C, permettant d'
 - **Fonctions Principales**:
   - Gère l'affichage du prompt et la lecture des commandes de l'utilisateur.
   - S'occupe des redirections d'entrée et de sortie pour les commandes.
-- **Intérêt**: Ce fichier facilite la gestion des interactions utilisateur et améliore la modularité du code.
+
 
 ### 4. `shell.h`
 
