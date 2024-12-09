@@ -6,7 +6,6 @@
 #include <stdbool.h>
 #include "shell.h"
 
-
 int main() {
     char command[MAX_COMMAND_LENGTH];
     int last_exit_status = 0;
